@@ -1,5 +1,5 @@
-# Welcome on my Github Page! I'm Tatjana.
-
+# Welcome to my Github Page! 
+<br>
 <a href="https://github.com/tatjanafichtner">
   <img align="left" alt="Tatjana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
@@ -12,11 +12,11 @@
   <img align="left" alt="Tatjana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<p>
+<br>
 
-:point_right: Former communications manager & storyteller, actual coding enthusiast. 
-  
- </p>
+:point_right: Former communications manager & storyteller, actual coding enthusiast.
+
+<br> 
 
 > Coding is a great way to be creative 
 
