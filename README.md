@@ -21,4 +21,4 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatjanafichtner&show_icons=true)
 
-![Cat picture](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Woman Coding](https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif)
