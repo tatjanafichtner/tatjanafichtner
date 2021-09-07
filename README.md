@@ -20,3 +20,5 @@
 <br>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatjanafichtner&show_icons=true)
+
+![Cat picture](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
