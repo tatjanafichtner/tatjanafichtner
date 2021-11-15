@@ -1,9 +1,13 @@
 # Welcome to my Github Page! 
-:point_right: Former communications manager & storyteller, actual coding enthusiast.  
+:point_right: Product Owner & coding enthusiast.  
 
-> Coding is a great way to be creative   
+> Coding is logic-based creativity. 
+Let's invent our future 🚀 
 
-:rocket: Let's stay connected!
+
+**User-centered and well-designed apps give me goose bumps. As a former communications professional, I understand their needs and wants and am eager to create thrilling user experiences.**
+
+<br>
 
 <a href="https://github.com/tatjanafichtner">
   <img align="left" alt="Tatjana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -17,6 +21,7 @@
   <img align="left" alt="Tatjana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>  
 
+<br>
 <br>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatjanafichtner&show_icons=true)
